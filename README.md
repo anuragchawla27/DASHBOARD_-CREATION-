@@ -1,6 +1,7 @@
 # DASHBOARD_CREATION
 
 🚗 BMW Car Sales & Performance Analysis Dashboard (Power BI)
+
 📌 Project Overview
 
 This project focuses on analyzing BMW car data from multiple years using Power BI to build an interactive and insight-driven dashboard.
@@ -129,6 +130,7 @@ Data analytics portfolio project
 Learning project for Power BI visualization and dashboard design
 
 📂 Repository Structure
+
 📁 BMW-PowerBI-Dashboard
 │
 ├── 📄 BMW_Data.csv
